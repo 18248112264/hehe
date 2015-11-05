@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LTView.h
 //  UI_lesson3_class
 //
 //  Created by 范姝雅 on 15/10/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LTView : UIView
 
 @end
-
